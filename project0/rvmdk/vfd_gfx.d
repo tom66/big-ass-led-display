@@ -1,0 +1,10 @@
+.\rvmdk\vfd_gfx.o: vfd_gfx.c
+.\rvmdk\vfd_gfx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\rvmdk\vfd_gfx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\rvmdk\vfd_gfx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\rvmdk\vfd_gfx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\rvmdk\vfd_gfx.o: vfd.h
+.\rvmdk\vfd_gfx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\vfd_gfx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\vfd_gfx.o: vfd_gfx.h
+.\rvmdk\vfd_gfx.o: vfd_fontdata.h

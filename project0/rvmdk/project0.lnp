@@ -1,0 +1,17 @@
+--cpu Cortex-M4.fp
+".\rvmdk\project0.o"
+".\rvmdk\startup_rvmdk.o"
+".\rvmdk\uartstdio.o"
+".\rvmdk\dispctl.o"
+".\rvmdk\hal.o"
+".\rvmdk\inet.o"
+"..\driverlib\rvmdk\driverlib.lib"
+".\rvmdk\ustdlib.o"
+".\rvmdk\lwiplib.o"
+".\rvmdk\httpd.o"
+".\rvmdk\fs.o"
+--strict --scatter "project0.sct"
+
+--entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\rvmdk\project0.map" -o .\rvmdk\project0.axf

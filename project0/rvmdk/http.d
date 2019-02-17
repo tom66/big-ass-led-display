@@ -1,0 +1,9 @@
+.\rvmdk\http.o: http.c
+.\rvmdk\http.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\http.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\http.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\rvmdk\http.o: ..\inc/hw_types.h
+.\rvmdk\http.o: utils/ustdlib.h
+.\rvmdk\http.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\rvmdk\http.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\rvmdk\http.o: http.h

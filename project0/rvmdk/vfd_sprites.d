@@ -1,0 +1,9 @@
+.\rvmdk\vfd_sprites.o: vfd_sprites.c
+.\rvmdk\vfd_sprites.o: vfd_sprites.h
+.\rvmdk\vfd_sprites.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\vfd_sprites.o: vfd_gfx.h
+.\rvmdk\vfd_sprites.o: vfd_fontdata.h
+.\rvmdk\vfd_sprites.o: vfd.h
+.\rvmdk\vfd_sprites.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\rvmdk\vfd_sprites.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\rvmdk\vfd_sprites.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

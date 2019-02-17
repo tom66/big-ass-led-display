@@ -1,0 +1,10 @@
+.\rvmdk\fsdata.o: third_party\lwip\apps\httpserver_raw\fsdata.c
+.\rvmdk\fsdata.o: third_party\lwip\apps\httpserver_raw\fs.h
+.\rvmdk\fsdata.o: .\third_party\lwip\src\include\lwip/opt.h
+.\rvmdk\fsdata.o: .\lwipopts.h
+.\rvmdk\fsdata.o: .\third_party\lwip\src\include\lwip/debug.h
+.\rvmdk\fsdata.o: .\third_party\lwip\src\include\lwip/arch.h
+.\rvmdk\fsdata.o: .\third_party\lwip\ports\tiva-tm4c129\include\arch/cc.h
+.\rvmdk\fsdata.o: .\third_party\lwip\src\include\lwip/opt.h
+.\rvmdk\fsdata.o: .\third_party\lwip\src\include\lwip/def.h
+.\rvmdk\fsdata.o: third_party\lwip\apps\httpserver_raw\fsdata.h

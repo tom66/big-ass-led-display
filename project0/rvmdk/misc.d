@@ -1,0 +1,14 @@
+.\rvmdk\misc.o: misc.c
+.\rvmdk\misc.o: misc.h
+.\rvmdk\misc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\misc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\misc.o: ..\inc\tm4c123gh6pm.h
+.\rvmdk\misc.o: ..\inc/hw_gpio.h
+.\rvmdk\misc.o: ..\inc/hw_memmap.h
+.\rvmdk\misc.o: ..\inc/hw_sysctl.h
+.\rvmdk\misc.o: ..\inc/hw_types.h
+.\rvmdk\misc.o: ..\inc/hw_ints.h
+.\rvmdk\misc.o: ..\inc/hw_udma.h
+.\rvmdk\misc.o: ..\inc/hw_ssi.h
+.\rvmdk\misc.o: ..\driverlib/gpio.h
+.\rvmdk\misc.o: ..\driverlib/sysctl.h
